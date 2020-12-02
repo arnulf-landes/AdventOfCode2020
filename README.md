@@ -6,3 +6,5 @@ I prefer transforming the input data to my needs to make it easier to work with 
 I will include both the original input files from the puzzle and my transformed/prepared versions.
 
 Let's see whether I can solve (and post) all puzzles or if I get lazy...
+
+<br><br>[Go to german version](README_de.md)
