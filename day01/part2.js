@@ -1,4 +1,5 @@
-const numbers = require('./input.json');
+const fs = require('fs');
+const numbers = fs.readFileSync('input.txt').toString().split('\r\n').map(n => +n);
 
 numbers.forEach(n1 => {
   numbers.forEach(n2 => {
