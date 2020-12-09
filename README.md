@@ -2,12 +2,6 @@
 
 This repository contains my solutions to the puzzles of [Advent of Code 2020](https://adventofcode.com/2020).
 
-I usually prefer transforming the input data to my needs (e.g. with the help of a few regular expressions) to make it easier to work with. The regular expressions will be provided as text files (`dayXX/input_transform_regex.txt`).
+Please keep in mind that I do *not* aim for high readability. I will use lots of array manipulation, arrow functions and features from the latest ECMAScript Edition. I'll also take advantage of Javascript's implicit type coercion.
 
-I will include both the original input file (`dayXX/input.txt`) from the puzzle *and* my transformed/prepared version (`dayXX/input_transformed.xyz`).
-
-Please keep in mind that I do *not* aim for high readability. I will try to answer questions though, so feel free to [create an issue](../../issues) if you're curious about something.
-
-Let's see whether I can solve (and post) all puzzles or if I get lazy near the end...
-
-<br><br>[Go to german version](README_de.md)
+Let's see whether I can solve all puzzles *and* also keep this repo up-to-date or if I get lazy near the end...
